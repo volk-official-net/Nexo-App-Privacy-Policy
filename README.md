@@ -1,6 +1,45 @@
 
+Last updated: June 27, 2026
+
+1. General Provisions
+This Privacy Policy describes how the NEXO mobile application processes information when you use the service.
+
+The developer and operator of the Application is Vladislav Kirillovich Lazarev. This document has been prepared in accordance with personal data protection laws.
+
+2. Data Processing Principles
+We respect user privacy. Our primary goal is to ensure the security of your personal records.
+
+Local Storage: All data you create within the application (note text, lists, note metadata) is stored exclusively locally on your device in a secure Hive database.
+
+No Access: The developer does not have access to the content of your notes, does not transmit them to third-party servers, and does not analyze or use them to train neural networks or display advertisements.
+
+3. Data We Collect
+To ensure stable operation and improve the application's functionality, we use third-party analytics tools (AppMetrica). The following anonymized data may be collected automatically:
+
+Technical Parameters: Device model, operating system version, time zone, and smartphone technical specifications.
+
+Usage Statistics: Number of app launches, frequency of note creation and deletion, and screen navigation.
+
+Diagnostics: Information regarding app crashes and errors (to facilitate prompt fixes).
+
+Data is transmitted to analytics service providers only in an aggregated (anonymized) form. We do not identify you personally through this data.
+
+4. Third Parties
+We do not share your personal information with third parties, except where necessary for the operation of analytics tools that help us improve the Application.
+
+5. Policy Changes
+The developer reserves the right to modify this Policy. The new version becomes effective upon its publication on this page. We recommend checking this page periodically for the latest terms.
+
+6. Contact Information
+For questions regarding the use of the application or this Privacy Policy, as well as inquiries concerning data processing, you may contact the Developer:
+
+Developer: Vladislav Kirillovich Lazarev
+
+Email: [volk.official.net@gmail.com]
+
+
                                     Политика конфиденциальности приложения NEXO
-Дата последнего обновления: 14 июня 2026 года
+Дата последнего обновления: 27 июня 2026 года
 
 1. Общие положения
 Настоящая Политика конфиденциальности описывает, как мобильное приложение NEXO  обрабатывает информацию при использовании вами сервиса.
